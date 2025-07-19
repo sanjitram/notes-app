@@ -1,2 +1,2 @@
 MERN petition webapp
-Features Redis,Daisy UI, Tailwind CSS
+Features Redis (rate limiting), Daisy UI, Tailwind CSS
